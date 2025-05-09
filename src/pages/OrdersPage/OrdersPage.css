@@ -1,0 +1,30 @@
+.orders-page-wrapper {
+  background: linear-gradient(
+    to bottom,
+    #f56b9a,
+    #632f78,
+    #251f43,
+    #211d3d,
+    #231f42
+  );
+  width: 100%;
+  height: 100%;
+}
+
+.orders-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 45px 30px 35px 30px;
+}
+
+.orders-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  flex-grow: 1;
+  padding: 0 0 8rem 0;
+}

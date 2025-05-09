@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 45px 30px 35px 30px;
+}
+
+.header__item-wrapper {
+  width: 50px;
+  display: flex;
+}
+
+.header__items-wrapper--justify-end {
+  justify-content: end;
+}

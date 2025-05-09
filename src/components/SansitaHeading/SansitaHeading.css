@@ -1,0 +1,22 @@
+.sansita-heading {
+  font-family: 'Sansita One', regular;
+  font-size: 36px;
+  font-weight: 400;
+  /* margin: 45px 0 35px 0; */
+}
+
+.sansita-heading--large {
+  font-size: 39px;
+}
+
+.sansita-heading--small {
+  font-size: 30px;
+}
+
+.sansita-heading--xsmall {
+  font-size: 28px;
+}
+
+.sansita-heading--shadow {
+  text-shadow: 1px 1px 0px rgb(0, 0, 0);
+}

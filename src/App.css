@@ -1,0 +1,65 @@
+.page-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+  overflow: auto;
+}
+
+.total-price {
+  color: white;
+  text-shadow: 1px 1px 0px #f56b9a;
+  font-size: 36px;
+  font-weight: 700;
+  padding: 20px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.counter {
+  border: 2px solid #f56b9a;
+  width: 65%;
+  border-radius: 2px;
+}
+
+.counter__text {
+  border-bottom: 1px solid #f56b9a;
+}
+
+.counter__controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.counter__btn {
+  width: 30%;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 32px;
+  padding: 13px 0;
+}
+
+.counter__amount {
+  border-left: 1px solid #f56b9a;
+  border-right: 1px solid #f56b9a;
+  width: 40%;
+  padding: 13px 0;
+  font-size: 32px;
+  color: white;
+}
+
+.empty-arr-text {
+  color: rgba(255, 255, 255, 0.7);
+  font-style: italic;
+  position: absolute;
+  left: 50%;
+  top: 36%;
+  transform: translate(-50%, -36%);
+  font-size: 20px;
+}

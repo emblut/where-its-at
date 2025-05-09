@@ -1,0 +1,12 @@
+.cart__seat-section {
+  margin: 8px;
+}
+
+.cart__seat-label {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0 8px 0 0;
+  text-shadow: -0.5px -0.5px 0 #555, 0.5px -0.5px 0 #555, -0.5px 0.5px 0 #555,
+    0.5px 0.5px 0 #555;
+}

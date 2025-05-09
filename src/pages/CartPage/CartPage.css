@@ -1,0 +1,30 @@
+.cart-page {
+  height: 100%;
+}
+
+.cart-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  min-height: 100%;
+  flex-grow: 1;
+  padding: 0 0 8rem 0;
+}
+
+.cart-form__top-container {
+  width: 100%;
+}
+
+.cart-form__text {
+  font-size: 23px;
+  color: rgba(255, 255, 255, 0.8);
+  font-style: italic;
+  margin: 1rem 0 0 0;
+}
+
+.cart-form__bottom {
+  width: 100%;
+}

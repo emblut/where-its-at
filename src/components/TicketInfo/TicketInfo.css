@@ -1,0 +1,10 @@
+.ticket__info {
+  background-color: rgba(0, 0, 0, 0.09);
+  padding: 10px 15px 20px 15px;
+}
+
+.ticket__info-text {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 16px;
+  margin: 15px 0 0 0;
+}

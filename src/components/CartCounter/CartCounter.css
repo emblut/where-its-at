@@ -1,0 +1,23 @@
+.cart__counter {
+  width: 100%;
+}
+
+.cart__counter-link {
+  color: #f56b9a;
+}
+
+.cart__counter-name {
+  text-align: start;
+  margin: 0;
+  margin: 8px;
+}
+
+.cart__counter-when {
+  color: #37aeab;
+  text-align: start;
+  margin: 8px;
+}
+
+.trash-icon {
+  width: 1rem;
+}

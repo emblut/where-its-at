@@ -1,0 +1,17 @@
+.event-desc__name {
+  margin: 30px 0;
+}
+
+.event-desc__time {
+  color: #37aeab;
+  font-size: 23px;
+  font-weight: 700;
+  margin: 0 0 15px 0;
+}
+
+.event-desc__place {
+  color: white;
+  font-style: italic;
+  opacity: 70%;
+  margin: 0 0 90px 0;
+}

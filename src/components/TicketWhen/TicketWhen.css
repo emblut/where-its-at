@@ -1,0 +1,22 @@
+.ticket__when {
+  background-color: rgba(0, 0, 0, 0.06);
+  display: flex;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.ticket__when-container {
+  flex: 1;
+  padding: 10px 15px;
+}
+
+.ticket__when-container--borders {
+  border-left: 1px dashed rgba(0, 0, 0, 0.4);
+  border-right: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.ticket__when-text {
+  margin: 15px 0 0 0;
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 600;
+}

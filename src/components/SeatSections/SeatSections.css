@@ -1,0 +1,32 @@
+.cart__seat-sections {
+  text-align: start;
+  margin: 0 0 40px 0;
+  border-left: 2px solid #f56b9a;
+  border-right: 2px solid #f56b9a;
+  border-bottom: 2px solid #f56b9a;
+  padding: 8px;
+}
+
+.cart__seat-text {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.cart__seat-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart__quantity-error {
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 8px 0 0 0;
+}
+
+.cart__quantity-error--big {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+  

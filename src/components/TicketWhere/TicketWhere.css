@@ -1,0 +1,18 @@
+.ticket__where {
+  padding: 10px 15px 45px 15px;
+  color: black;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+}
+
+.ticket__location {
+  font-size: 22px;
+  font-weight: 600;
+  opacity: 70%;
+  margin: 15px 0 10px 0;
+}
+
+.ticket__location-details {
+  font-size: 17px;
+  opacity: 60%;
+}

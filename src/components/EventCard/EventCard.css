@@ -1,0 +1,73 @@
+.event-card {
+  color: white;
+  font-weight: 600;
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 1.5rem 0;
+  text-align: start;
+  height: 80px;
+}
+
+.event-card__date-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+.event-card__date {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.event-card__month {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.event-card__right-container {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 0 0 0 1.5rem;
+  flex: 1;
+}
+
+.event-card__name {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0 0 5px 0;
+  text-shadow: 1px 1px 0px #f56b9a;
+}
+
+.event-card__place {
+  font-size: 12px;
+  opacity: 80%;
+  font-style: italic;
+  font-weight: 400;
+  margin: 0 0 5px 0;
+}
+
+.event-card__bottom-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.event-card__time {
+  font-size: 18px;
+  color: #d0d0d0;
+}
+
+.event-card__price {
+  font-size: 21px;
+  color: #37aeab;
+  font-weight: 700;
+  text-align: end;
+}
+
+.event-card__price--red {
+  color: #f56b9a;
+}

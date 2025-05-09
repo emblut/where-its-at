@@ -1,0 +1,16 @@
+.ticket__id {
+  background-color: rgba(0, 0, 0, 0.12);
+  padding: 15px;
+  text-align: center;
+}
+
+.qr-code {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.ticket__id-text {
+  font-size: 16px;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.4);
+  letter-spacing: 0.3rem;
+}

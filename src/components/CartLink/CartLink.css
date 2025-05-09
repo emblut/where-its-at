@@ -1,0 +1,15 @@
+.cart-link {
+  scale: 1;
+  opacity: 90%;
+}
+
+.cart-link__text {
+  color: #ffc898;
+  font-size: 20px;
+  text-align: center;
+  margin: 1px 0 0 0;
+}
+
+.cart-icon {
+  color: #f39440;
+}

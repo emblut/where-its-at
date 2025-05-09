@@ -1,0 +1,19 @@
+.cta-btn {
+  background-color: #2e9c99;
+  border: none;
+  color: white;
+  padding: 15px 0;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'Fira Sans', sans-serif;
+  width: 85%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+
+.cta-btn--outlined {
+  background-color: transparent;
+  border: 1px solid #37aeab;
+  color: #37aeab;
+}

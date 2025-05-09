@@ -1,0 +1,10 @@
+.ticket__what {
+  background-color: white;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.4);
+  padding: 10px 15px;
+}
+
+.ticket__heading {
+  margin: 25px 0;
+  color: #ff3f7f;;
+}

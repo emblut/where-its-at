@@ -1,0 +1,15 @@
+.ticket {
+  background-color: white;
+  text-align: start;
+  margin: 0 0 45px 0;
+  width: 100%;
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.1);
+}
+
+.ticket__keyword {
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 700;
+  font-size: 14px;
+}
